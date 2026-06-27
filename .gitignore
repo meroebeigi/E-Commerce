@@ -1,0 +1,4 @@
+github_repo/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
