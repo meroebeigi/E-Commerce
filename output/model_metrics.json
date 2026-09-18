@@ -1,0 +1,20 @@
+{
+  "selected_model": "Random forest",
+  "threshold": 0.48000000000000004,
+  "train_orders": 53870,
+  "validation_orders": 17336,
+  "test_orders": 19333,
+  "validation_start": "2018-03-02 00:00:00",
+  "test_start": "2018-05-25 00:00:00",
+  "test_prevalence": 0.034810945016293386,
+  "test_average_precision": 0.061362580016110335,
+  "test_roc_auc": 0.6917636154283503,
+  "test_precision": 0.0622143219908583,
+  "test_recall": 0.3640416047548291,
+  "test_f1": 0.10626762090652787,
+  "true_negatives": 14967,
+  "false_positives": 3693,
+  "false_negatives": 428,
+  "true_positives": 245,
+  "excluded_unmatured_labels": 5743
+}

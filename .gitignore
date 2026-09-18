@@ -1,4 +1,10 @@
+data/raw/*.csv
 github_repo/
-.ipynb_checkpoints/
+data/raw/*.zip
+output/*.csv
+output/*.sqlite
+output/test_predictions.csv
 __pycache__/
+.ipynb_checkpoints/
+.venv/
 *.pyc

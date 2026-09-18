@@ -1,0 +1,50 @@
+[
+  {
+    "file": "olist_customers_dataset.csv",
+    "url": "https://raw.githubusercontent.com/meroebeigi/E-Commerce/41710981b96a59a5399d88c62339ede3c8207e46/archive/olist_customers_dataset.csv",
+    "sha256": "983a422239e1712ded753b3bf9ecf47dc73f144d306029dcfa99e70a226883d2",
+    "bytes": 9033957
+  },
+  {
+    "file": "olist_orders_dataset.csv",
+    "url": "https://raw.githubusercontent.com/meroebeigi/E-Commerce/41710981b96a59a5399d88c62339ede3c8207e46/archive/olist_orders_dataset.csv",
+    "sha256": "8df58ef3d2d7e9944010f7beecd9b75367f5588ec6e3c91cec19ae3345ef9ecf",
+    "bytes": 17654914
+  },
+  {
+    "file": "olist_order_items_dataset.csv",
+    "url": "https://raw.githubusercontent.com/meroebeigi/E-Commerce/41710981b96a59a5399d88c62339ede3c8207e46/archive/olist_order_items_dataset.csv",
+    "sha256": "0bc4d068c4fe38cbb01bd90e8746e3c613fe7b4baef75fab7b0e329701c3e279",
+    "bytes": 15438671
+  },
+  {
+    "file": "olist_order_payments_dataset.csv",
+    "url": "https://raw.githubusercontent.com/meroebeigi/E-Commerce/41710981b96a59a5399d88c62339ede3c8207e46/archive/olist_order_payments_dataset.csv",
+    "sha256": "4f713964f2815dbbaa40b9488268c55aac3627bfce5aa96cf58d1f3616de3cc0",
+    "bytes": 5777138
+  },
+  {
+    "file": "olist_order_reviews_dataset.csv",
+    "url": "https://raw.githubusercontent.com/meroebeigi/E-Commerce/41710981b96a59a5399d88c62339ede3c8207e46/archive/olist_order_reviews_dataset.csv",
+    "sha256": "81336b6e5183133b632a3d9ed899428e33430987fa540926a6daa8b4a2157598",
+    "bytes": 14346950
+  },
+  {
+    "file": "olist_products_dataset.csv",
+    "url": "https://raw.githubusercontent.com/meroebeigi/E-Commerce/41710981b96a59a5399d88c62339ede3c8207e46/archive/olist_products_dataset.csv",
+    "sha256": "3e6569628a17fbc75fd206ee357b59e20364b9afa90f5b6cd5b4d624c58aa9cc",
+    "bytes": 2379446
+  },
+  {
+    "file": "olist_sellers_dataset.csv",
+    "url": "https://raw.githubusercontent.com/meroebeigi/E-Commerce/41710981b96a59a5399d88c62339ede3c8207e46/archive/olist_sellers_dataset.csv",
+    "sha256": "1f643d2b950373b85735e7794b20986f528d7a000432e7c6f9bcbb44d0846a0e",
+    "bytes": 174703
+  },
+  {
+    "file": "product_category_name_translation.csv",
+    "url": "https://raw.githubusercontent.com/meroebeigi/E-Commerce/41710981b96a59a5399d88c62339ede3c8207e46/archive/product_category_name_translation.csv",
+    "sha256": "9da093e114e517534d7a6903b253b0d24a582830b99ea9e8ef48a90b79d60967",
+    "bytes": 2542
+  }
+]

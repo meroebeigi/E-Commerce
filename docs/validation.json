@@ -1,0 +1,35 @@
+{
+  "validated_at_utc": "2026-09-18T20:47:33.044544+00:00",
+  "source_repository": "https://github.com/meroebeigi/E-Commerce",
+  "source_commit": "41710981b96a59a5399d88c62339ede3c8207e46",
+  "source_files_hash_verified": 8,
+  "notebooks": [
+    {
+      "notebook": "01_data_quality.ipynb",
+      "executed_code_cells": 6,
+      "errors": 0
+    },
+    {
+      "notebook": "02_business_analytics.ipynb",
+      "executed_code_cells": 11,
+      "errors": 0
+    },
+    {
+      "notebook": "03_customer_analytics.ipynb",
+      "executed_code_cells": 6,
+      "errors": 0
+    },
+    {
+      "notebook": "04_data_science.ipynb",
+      "executed_code_cells": 7,
+      "errors": 0
+    }
+  ],
+  "financial_and_status_reconciliations": 7,
+  "sql_python_reconciliations": 18,
+  "regression_tests_passed": 6,
+  "regression_framework": "python -m unittest discover -s tests -v",
+  "figures_reviewed": 13,
+  "native_powerbi_validated": false,
+  "python_version": "3.12.14"
+}
